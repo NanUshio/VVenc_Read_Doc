@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'VVenC_Read_Doc'
+copyright = '2023, NanUshio'
+author = 'NanUshio'
 
 release = '0.1'
 version = '0.1.0'
