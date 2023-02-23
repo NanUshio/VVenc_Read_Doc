@@ -1,22 +1,27 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to NanUshio's documentation of VVenC!
+=============================================
+欢迎访问，我们致力于开源编码器的学习与分享！
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+这是对于一个支持VVC标准的开源编码器——VVenC的学习笔记，
+由于笔者认知有限，如有错误欢迎在相应的开源仓库中指出：
+https://github.com/NanUshio/VVenc_Read_Doc
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+另外，十分感谢所有开源编码器的开发人员，因为你们的存在，
+像我们这样的小白才能够有如此优秀的学习材料！
 
 .. note::
 
-   This project is under active development.
+   本开源笔记项目正在持续推进中，敬请期待...
 
-Contents
+目录
 --------
 
 .. toctree::
 
-   usage
-   api
+   下载与使用
+   预分析
+   码率控制
+   帧内预测
+   帧间预测
+   环路滤波
+   熵编码
